@@ -27,7 +27,7 @@
     "common-sequence": "^2.0.0",
     "file-set": "^3.0.0",
     "handlebars": "^4.5.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "object-get": "^2.1.0",
     "reduce-flatten": "^3.0.0",
     "reduce-unique": "^2.0.1",
